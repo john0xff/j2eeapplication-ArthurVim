@@ -1,0 +1,10 @@
+install oracle db express
+create db as database.sql file content
+deploy war to tomcat
+
+if want to create new war then setup mvn goal to install
+
+tutorial:
+http://www.youtube.com/channel/UC53onV6SK53Pq-ZAvJsKWOA/videos
+
+19 x video
